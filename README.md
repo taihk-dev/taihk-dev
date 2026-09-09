@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello world!
 *I'm Tai, a Mathematics and Statistics student at the University of Windsor minoring in Computer Science.*
 
 
