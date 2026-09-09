@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Tai - a Mathematics and Statistics student at the University of Windsor minoring in Computer Science.**
+*I'm Tai, a Mathematics and Statistics student at the University of Windsor minoring in Computer Science.*
 
 
 - ***I'm currently working on:*** this page
